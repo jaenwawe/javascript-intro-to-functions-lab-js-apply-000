@@ -21,10 +21,10 @@ function sayHiToGrandma(string){
   var lowercase = 'hello!'
   
   
-  if (uppercase === )
+  if (string === lowercase )
   return "I can't hear you!"
   
-  if (string === )
+  if (string === uppercase)
   return "YES INDEED!"
   
   if (string === "I love you, Grandma.")
